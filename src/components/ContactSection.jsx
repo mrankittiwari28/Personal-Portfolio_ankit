@@ -1,5 +1,10 @@
 import React from "react";
-import { AiFillInstagram, AiFillGithub, AiFillLinkedin,AiFillCode } from "react-icons/ai";
+import {
+  AiFillInstagram,
+  AiFillGithub,
+  AiFillLinkedin,
+  AiFillCode,
+} from "react-icons/ai";
 const ContactSection = () => {
   return (
     <div
@@ -16,29 +21,29 @@ const ContactSection = () => {
           </h1>
           <div className="flex flex-col gap-2">
             <a
-              href="mailto:kshitijawasthi51@gmail.com"
+              href="mailto:ankittiwari285202@gmail.com"
               className="text-white font-mono underline text-lg lg:text-2xl"
             >
-              kshitijawasthi51@gmail.com
+              ankittiwari285202@gmail.com
             </a>
             <a
-              href="tel:+919336949467"
+              href="tel:+919005227425"
               className="text-white font-mono underline text-lg lg:text-2xl"
             >
-              +91 9336949467
+              +91 9005227425
             </a>
           </div>
           <div className="flex gap-2 mt-2">
-            <a href="https://github.com/Kshitijawasthi">
+            <a href="https://github.com/mrankittiwari28">
               <AiFillGithub className="text-white text-2xl" />
             </a>
-            <a href="https://www.linkedin.com/in/kshitij-awasthi-131b77204/">
+            <a href="">
               <AiFillLinkedin className="text-white text-2xl" />
             </a>
-            <a href="https://www.instagram.com/shtjjz_/">
+            <a href="https://twitter.com/AnkitTi81630957?t=iGhlDCgk-n5LOlVmrecCAQ&s=08">
               <AiFillInstagram className="text-white text-2xl" />
             </a>
-            <a href="https://auth.geeksforgeeks.org/user/kshitijawasthi51">
+            <a href="https://leetcode.com/Ankittiwari28/">
               <AiFillCode className="text-white text-2xl" />
             </a>
           </div>
@@ -47,12 +52,10 @@ const ContactSection = () => {
           </h2>
         </div>
         <div>
-          <form
-            action="https://getform.io/f/87e18040-0ce3-4e4c-b773-c7e393506d8f"
-            // enctype="multipart/form-data"
-            method="POST"
-            className="flex flex-col p-3"
-          >
+          <form 
+          action="https://getform.io/f/0dNVNLdL"
+          method="POST"
+           className="flex flex-col p-3">
             <input
               type="text"
               name="name"

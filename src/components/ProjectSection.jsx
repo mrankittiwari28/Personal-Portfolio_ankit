@@ -47,10 +47,10 @@ const ProjectSection = () => {
           projectImg={employeeImg}
         />
         <ProjectCard
-          GitLink={"https://github.com/Kshitijawasthi/quote_generator"}
+          GitLink={"https://github.com/Kshitijawasthi/Personal_Portfolio1"}
           HostLink={""}
-          projectName={"Quote Generator"}
-          topicDesc={`Its a quote generating website which gives different quotes using api method`}
+          projectName={"Portfolio"}
+          topicDesc={`This is my Personal portfolio which describe my all Projects also describe me what i do in developer life`}
           projectImg={quoteImg}
         />
         <ProjectCard

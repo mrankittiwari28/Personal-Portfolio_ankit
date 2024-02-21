@@ -1,5 +1,5 @@
 import React from "react";
-import myImg from "../assets/myImg.jpeg";
+import myImg from "../assets/myImg.png";
 
 const HomeCard = () => {
   return (
@@ -7,7 +7,7 @@ const HomeCard = () => {
       <div data-aos="fade-up-right" className="flex flex-col gap-5 lg:w-[50%]">
         <h1 className="text-5xl lg:text-7xl mb-10 gradient-text">Hey!</h1>
         <p className="text-gray-300 text-xl lg:text-2xl ">
-          My name is Kshitij, and I am a MERN Stack Developer. I am 20 years old
+          My name is Ankit Tiwari, and I am a MERN Stack Developer. I am 22 years old
           from India. I am Fresher, focusing and creating web applications,
           design systems that adds growth to your businesses and more. Over
           these years, I have developed various websites, conducted workshops
