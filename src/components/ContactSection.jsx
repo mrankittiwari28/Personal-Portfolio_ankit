@@ -96,7 +96,7 @@ const ContactSection = () => {
               type="submit"
               className="px-3 py-2 text-lg lg:text-2xl bg-purple-500 hover:bg-purple-600 border font-bold text-white rounded-lg"
             >
-              Send Message yupp
+              Send Message
             </button>
           </form>
         </div>

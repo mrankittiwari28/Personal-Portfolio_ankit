@@ -26,40 +26,34 @@ const ProjectSection = () => {
         className="flex overflow-x-scroll gap-8 lg:p-3 scroll-hide"
       >
         <ProjectCard
-          GitLink={"https://github.com/Kshitijawasthi/quote_generator"}
-          HostLink={"https://joyful-crumble-ba82d7.netlify.app/"}
-          projectName={"Quote Generator"}
-          topicDesc={`Its a quote generating website which gives different quotes using api method`}
+          GitLink={"https://github.com/mrankittiwari28/CLI-Based-Facebook-App.git"}
+          HostLink={"https://mrankittiwari28.github.io/CLI-Based-Facebook-App/"}
+          projectName={"CLI based facebook App"}
+          topicDesc={`A command-line interface (CLI) is a text-based user interface (UI) used to run programs`}
           projectImg={quoteImg}
         />
         <ProjectCard
-          GitLink={"https://github.com/Kshitijawasthi/lightlamp"}
-          HostLink={"https://astonishing-hummingbird-18a8d6.netlify.app/"}
-          projectName={"Light Lamp"}
-          topicDesc={`Its a UI In which we added a button turn off and turn on the lamp in our website `}
+          GitLink={"https://github.com/mrankittiwari28/Product-landing-page.git"}
+          HostLink={"https://qdy5ohppzepbfmyzgmphgq.on.drv.tw/www.Product-landing-page.com/pagelanding.html"}
+          projectName={"Product Landing Page"}
+          topicDesc={`A product landing page is a page that gives you the relevant information you need regarding a product to make a purchase `}
           projectImg={lightLampImg}
         />
         <ProjectCard
-          GitLink={"https://github.com/Kshitijawasthi/employee_managment"}
-          HostLink={"https://splendid-sherbet-918d2c.netlify.app/"}
-          projectName={"Employee Management Software"}
-          topicDesc={`This website work as managing employees in our company name email mob no every thing is included `}
+          GitLink={"https://github.com/mrankittiwari28/Tic-Tac-Toe-Game.git"}
+          HostLink={"https://mrankittiwari28.github.io/Tic-Tac-Toe-Game/"}
+          projectName={"Tic Tac Toe Game"}
+          topicDesc={`Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. `}
           projectImg={employeeImg}
         />
         <ProjectCard
-          GitLink={"https://github.com/Kshitijawasthi/Personal_Portfolio1"}
+          GitLink={"https://github.com/mrankittiwari28/Library-Management-System.git"}
           HostLink={""}
-          projectName={"Portfolio"}
-          topicDesc={`This is my Personal portfolio which describe my all Projects also describe me what i do in developer life`}
+          projectName={"Library Management System"}
+          topicDesc={`Library management systems are designed to manage the movement of books and maintain records of the members in a library`}
           projectImg={quoteImg}
         />
-        <ProjectCard
-          GitLink={"https://github.com/Kshitijawasthi/quote_generator"}
-          HostLink={""}
-          projectName={"Quote Generator"}
-          topicDesc={`Its a quote generating website which gives different quotes using api method`}
-          projectImg={quoteImg}
-        />
+       
       </div>
       <div className="flex justify-center items-center gap-3 mt-2 select-none">
         <HiArrowSmLeft
