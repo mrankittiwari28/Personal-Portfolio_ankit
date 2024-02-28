@@ -3,7 +3,7 @@ import ProjectCard from "./ProjectCard";
 import proImg from "../assets/proImg.jpeg";
 import screeImg from "../assets/screeImg.png"
 import ticTok from "../assets/tic_tok.jpeg"
-import sexy from "../assets/library.jpeg"
+import library from "../assets/library.jpeg"
 
 import { HiArrowSmLeft, HiArrowSmRight } from "react-icons/hi";
 import { useRef } from "react";
@@ -53,7 +53,7 @@ const ProjectSection = () => {
           HostLink={""}
           projectName={"Library Management System"}
           topicDesc={`Library management systems are designed to manage the movement of books and maintain records of the members in a library`}
-          projectImg={sexy}
+          projectImg={library}
         />
        
       </div>
