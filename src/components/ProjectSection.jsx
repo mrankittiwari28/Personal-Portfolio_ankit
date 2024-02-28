@@ -1,8 +1,10 @@
 import React from "react";
 import ProjectCard from "./ProjectCard";
-import quoteImg from "../assets/quoteImg.png"
-import lightLampImg from "../assets/lightLampImg.png"
-import employeeImg from "../assets/employeeImg.png"
+import proImg from "../assets/proImg.jpeg";
+import screeImg from "../assets/screeImg.png"
+import ticTok from "../assets/tic_tok.jpeg"
+import sexy from "../assets/library.jpeg"
+
 import { HiArrowSmLeft, HiArrowSmRight } from "react-icons/hi";
 import { useRef } from "react";
 
@@ -30,28 +32,28 @@ const ProjectSection = () => {
           HostLink={"https://mrankittiwari28.github.io/CLI-Based-Facebook-App/"}
           projectName={"CLI based facebook App"}
           topicDesc={`A command-line interface (CLI) is a text-based user interface (UI) used to run programs`}
-          projectImg={quoteImg}
+          projectImg={screeImg}
         />
         <ProjectCard
           GitLink={"https://github.com/mrankittiwari28/Product-landing-page.git"}
           HostLink={"https://qdy5ohppzepbfmyzgmphgq.on.drv.tw/www.Product-landing-page.com/pagelanding.html"}
           projectName={"Product Landing Page"}
           topicDesc={`A product landing page is a page that gives you the relevant information you need regarding a product to make a purchase `}
-          projectImg={lightLampImg}
+          projectImg={proImg}
         />
         <ProjectCard
           GitLink={"https://github.com/mrankittiwari28/Tic-Tac-Toe-Game.git"}
           HostLink={"https://mrankittiwari28.github.io/Tic-Tac-Toe-Game/"}
           projectName={"Tic Tac Toe Game"}
           topicDesc={`Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. `}
-          projectImg={employeeImg}
+          projectImg={ticTok}
         />
         <ProjectCard
           GitLink={"https://github.com/mrankittiwari28/Library-Management-System.git"}
           HostLink={""}
           projectName={"Library Management System"}
           topicDesc={`Library management systems are designed to manage the movement of books and maintain records of the members in a library`}
-          projectImg={quoteImg}
+          projectImg={sexy}
         />
        
       </div>
