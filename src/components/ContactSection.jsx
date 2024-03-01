@@ -24,7 +24,7 @@ const ContactSection = () => {
               href="mailto:ankittiwari285202@gmail.com"
               className="text-white font-mono underline text-lg lg:text-2xl"
             >
-              ankittiwari2852002@gmail.com
+              ankittiwari285202@gmail.com
             </a>
             <a
               href="tel:+919005227425"
