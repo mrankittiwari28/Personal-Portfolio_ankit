@@ -55,6 +55,14 @@ const ProjectSection = () => {
           topicDesc={`Library management systems are designed to manage the movement of books and maintain records of the members in a library`}
           projectImg={library}
         />
+        
+        <ProjectCard
+          GitLink={"https://github.com/mrankittiwari28/Library-Management-System.git"}
+          HostLink={""}
+          projectName={"Library Management System"}
+          topicDesc={`Library management systems are designed to manage the movement of books and maintain records of the members in a library`}
+          projectImg={library}
+        />
        
       </div>
       <div className="flex justify-center items-center gap-3 mt-2 select-none">
