@@ -4,6 +4,7 @@ import proImg from "../assets/proImg.jpeg";
 import screeImg from "../assets/screeImg.png"
 import ticTok from "../assets/tic_tok.jpeg"
 import library from "../assets/library.jpeg"
+import aesImg from "../assets/aesImg.png"
 
 import { HiArrowSmLeft, HiArrowSmRight } from "react-icons/hi";
 import { useRef } from "react";
@@ -33,6 +34,13 @@ const ProjectSection = () => {
           projectName={"CLI based facebook App"}
           topicDesc={`A command-line interface (CLI) is a text-based user interface (UI) used to run programs`}
           projectImg={screeImg}
+        />
+        <ProjectCard
+          GitLink={"https://github.com/mrankittiwari28/Secure-file-transfer-system-using-AES.git"}
+          HostLink={"https://secure-file-transfer-system-using-aes.vercel.app/"}
+          projectName={"Secure File Transfer System Using AES"}
+          topicDesc={`An AES algorithm is used to encrypt the file that needs to transfer to another computer.`}
+          projectImg={aesImg}
         />
         <ProjectCard
           GitLink={"https://github.com/mrankittiwari28/Product-landing-page.git"}
