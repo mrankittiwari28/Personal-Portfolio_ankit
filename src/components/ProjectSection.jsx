@@ -4,7 +4,8 @@ import proImg from "../assets/proImg.jpeg";
 import screeImg from "../assets/screeImg.png"
 import ticTok from "../assets/tic_tok.jpeg"
 import library from "../assets/library.jpeg"
-import aesImg from "../assets/aesImg.png"
+import aesImg from "../assets/AES.png"
+
 
 import { HiArrowSmLeft, HiArrowSmRight } from "react-icons/hi";
 import { useRef } from "react";
