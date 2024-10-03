@@ -14,7 +14,7 @@ const PortfolioCard = () => {
       <h3 className="text-xl lg:text-2xl py-3 border-2 border-transparent border-b-gray-400">
         Ankit Tiwari
       </h3>
-      <h3 className="text-xl lg:text-2xl py-3">MERN Stack Developer</h3>
+      <h3 className="text-xl lg:text-2xl py-3">Front-end React Developer</h3>
     </div>
   );
 };
